@@ -25,6 +25,16 @@ The SAM Starter Kit turns Claude into a full AI business partner that you talk t
 
 ---
 
+## Who Is This For?
+
+**Switching from ChatGPT?** Everything you wished ChatGPT could do — manage your email, control your calendar, automate your browser, remember your business context — this actually does. No coding. Just talk to it.
+
+**Running OpenClaw?** Stop fighting the infrastructure. Claude Code does natively what took you months to build, with better tool calling, better coding, and Anthropic's security behind it. Same philosophy, less duct tape.
+
+**Never used AI before?** Start here. You'll have an AI business partner running in 15 minutes. Just follow the steps — your Claude handles the technical stuff.
+
+---
+
 ## How to Set Up
 
 ### Option A: Let Your Claude Do It (Recommended)
