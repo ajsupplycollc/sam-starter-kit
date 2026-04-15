@@ -93,7 +93,7 @@ Text your AI partner on Telegram and ask it to fix itself. Seriously — it can 
 ## Built With
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) by Anthropic
-- [The Adam Framework](https://strangeadvancedmarketing.github.io/Adam/) — AI memory & identity persistence layer (MIT open source, 353 production sessions)
+- [The Adam Framework](https://github.com/ajsupplycollc/Adam) — AI memory & identity persistence layer (MIT open source, 353 production sessions)
 - [Claude Buddy](https://github.com/ajsupplycollc/claude-buddy) desktop companion
 - [gog.exe](https://github.com/doitadrian/gog) for Google Workspace
 - [Playwright](https://playwright.dev/) for browser automation
@@ -103,11 +103,11 @@ Text your AI partner on Telegram and ask it to fix itself. Seriously — it can 
 
 ## The Memory Layer: Adam Framework
 
-SAM Starter Kit pairs with **[The Adam Framework](https://strangeadvancedmarketing.github.io/Adam/)** — the persistence system that keeps your AI partner coherent across sessions, model upgrades, and vendor changes. Built by the same non-coder running SAM on consumer hardware. 353 real production sessions worth of proof. MIT licensed. Files you own.
+SAM Starter Kit pairs with **[The Adam Framework](https://github.com/ajsupplycollc/Adam)** — the persistence system that keeps your AI partner coherent across sessions, model upgrades, and vendor changes. Built by the same non-coder running SAM on consumer hardware. 353 real production sessions worth of proof. MIT licensed. Files you own.
 
 - **AI amnesia solved** — your AI remembers who it is across every session
 - **Vendor-independent** — survives model swaps and cloud failures
-- **Live site + interactive proof:** [strangeadvancedmarketing.github.io/Adam](https://strangeadvancedmarketing.github.io/Adam/)
+- **Live site + interactive proof:** [github.com/ajsupplycollc/Adam](https://github.com/ajsupplycollc/Adam)
 
 ---
 
